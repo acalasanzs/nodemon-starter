@@ -1,0 +1,15 @@
+{
+  "name": "nodemon-live",
+  "version": "0.0.1",
+  "description": "Calasanz",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node script.js",
+    "live": "nodemon script.js"
+  },
+  "author": "Albert Calasanz",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
